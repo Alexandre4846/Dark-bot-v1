@@ -37,11 +37,11 @@ module.exports = {
 			missingMessage: "𝗤𝘂𝗲𝗹 𝗲𝘀𝘁 𝘁𝗼𝗻 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 ....? 🌹",
 			sendByGroup: "",
 			sendByUser: "",
-			content: "\n_______________________\n\n%1\n\n_____________________ ↈ༈ 𝘿𝘼𝙍𝙆𝙉𝙀𝙎𝙎 ༈ↈ",
+			content: "\n_______________________\n\n%1\n\n_____________________ ↈ✰Luka RK✰ↈ",
 			success: "Sent your message to %1 admin successfully!\n%2",
 			failed: "An error occurred while sending your message to %1 admin\n%2\nCheck console for more details",
 			reply: "_________________________\n\n%2\n\n______________________ ↈ✰Luka RK✰ↈ",
-			replySuccess: "𝐕𝐨𝐭𝐫𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐚 𝐞𝐭𝐞 𝐞𝐧𝐯𝐨𝐲𝐞𝐫 𝐚𝐯𝐞𝐜 𝐬𝐮𝐜𝐜𝐞𝐬 𝐚 𝐦𝐨𝐧 𝐜𝐫𝐞𝐚𝐭𝐞𝐮𝐫  🌹 𝐋𝐮𝐤𝐚 𝐑𝐊  🌹
+			replySuccess: "𝐕𝐨𝐭𝐫𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐚 𝐞𝐭𝐞 𝐞𝐧𝐯𝐨𝐲𝐞𝐫 𝐚𝐯𝐞𝐜 𝐬𝐮𝐜𝐜𝐞𝐬 𝐚 𝐦𝐨𝐧 𝐜𝐫𝐞𝐚𝐭𝐞𝐮𝐫  🌹 𝐋𝐮𝐤𝐚 𝐑𝐊  🌹 ! ",
 	!",
 			feedback: "─────────────────\n\n %4\n\n───────────────── ↈ✰Luka RK✰ↈ",
 			replyUserSuccess: "Sent your reply to user successfully!",
