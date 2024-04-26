@@ -30,8 +30,8 @@ module.exports = {
         return; // Invalid prefix, ignore the command
       }
       const prompt = event.body.substring(prefix.length).trim();
-   if (!prompt) {
-        await message.reply("🌹𝙕𝙚𝙪𝙨 𝙯𝙚𝙣𝙤🌹 \n____________________\n 𝙌𝙪𝙚 𝙫𝙚𝙪𝙭 𝙩𝙪 𝙢𝙤𝙧𝙩𝙚𝙡𝙡𝙚............?  ");
+   if (!prompt) { 
+        await message.reply("🌹𝐋𝐮𝐤𝐚 𝐛𝐨𝐭🌹 \n____________________\n ✰ 𝐲𝐨 𝐦𝐨𝐢 𝐜'𝐞𝐬𝐭 🌹 𝐋𝐮𝐤𝐚 𝐛𝐨𝐭 🌹 𝐩𝐨𝐬𝐞 𝐦𝐨𝐢 𝐭'𝐚 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧 𝐞𝐭 𝐥𝐚 𝐫𝐞𝐩𝐨𝐧𝐬𝐞 𝐭𝐞 𝐬𝐞𝐫𝐚 ✰  ");
         return;
       }
 
@@ -40,10 +40,10 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `🌹𝙕𝙚𝙪𝙨 𝙯𝙚𝙣𝙤🌹
+    await message.reply({ body: `🌹𝐋𝐮𝐤𝐚 𝐛𝐨𝐭🌹
 _______________________
 ${answer}
-𝘿𝙍𝘼𝘾𝙐𝙇𝘼 💢`,
+✰ 𝐋𝐮𝐤𝐚 𝐛𝐨𝐭 ✰`,
 });
 
    } catch (error) {
